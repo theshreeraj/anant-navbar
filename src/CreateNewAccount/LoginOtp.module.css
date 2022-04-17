@@ -1,0 +1,36 @@
+.main_content_box{
+    height:60vh;
+    width:30vw;
+    margin-left: 38%;
+    background-color:floralwhite;
+    border: 1px solid black;
+}
+.heading1{
+    font-style: italic;
+    margin-top: 10%;
+}
+.text{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.input_tag{
+    margin-top: 4%;
+    width:20vw;
+    margin-left: 15%;
+}
+.login{
+    margin-top: 4%;
+    width:20vw;
+    margin-left: 15%;
+    background-color: blue;
+    color:white;
+    border-radius: 6px;
+}
+.button1{
+    background: none;
+}
+
+.a{
+    text-decoration:none ;
+    margin-left:8%;
+}
